@@ -182,3 +182,11 @@ rife-ncnn-vulkan.exe -m models/rife-anime -x -0 0.png -1 1.png -o out.png
 - https://github.com/webmproject/libwebp for encoding and decoding Webp images on ALL PLATFORMS
 - https://github.com/nothings/stb for decoding and encoding image on Linux / MacOS
 - https://github.com/tronkko/dirent for listing files in directory on Windows
+
+## RIFE ncnn Vulkan at Google Colab (about this branch)
+
+This branch adds some experimental files for using RIFE ncnn Vulkan with Google Colab.
+
+The `sample-executing-release-binary-on-google-colab` is just a sample that downloads and runs the release binary on Google Colab.
+
+`build-with-google-colab` is a sample command to build RIFE ncnn Vulkan on Google Colab.
