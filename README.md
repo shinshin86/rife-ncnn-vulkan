@@ -187,6 +187,6 @@ rife-ncnn-vulkan.exe -m models/rife-anime -x -0 0.png -1 1.png -o out.png
 
 This branch adds some experimental files for using RIFE ncnn Vulkan with Google Colab.
 
-The `sample-executing-release-binary-on-google-colab` is just a sample that downloads and runs the release binary on Google Colab.
+[sample-executing-release-binary-on-google-colab](./sample-executing-release-binary-on-google-colab.sh) is just a sample that downloads and runs the release binary on Google Colab.
 
-`build-with-google-colab` is a sample command to build RIFE ncnn Vulkan on Google Colab.
+[build-with-google-colab](./build-with-google-colab.sh) is a sample command to build RIFE ncnn Vulkan on Google Colab.
